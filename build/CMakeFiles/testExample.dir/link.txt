@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -O3 -DNDEBUG   CMakeFiles/testExample.dir/testExample.cpp.o  -o testExample 

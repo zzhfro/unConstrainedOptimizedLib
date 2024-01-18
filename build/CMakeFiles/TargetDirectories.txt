@@ -1,0 +1,4 @@
+/home/zzhfro/code/miniOptimization-library/build/CMakeFiles/rebuild_cache.dir
+/home/zzhfro/code/miniOptimization-library/build/CMakeFiles/edit_cache.dir
+/home/zzhfro/code/miniOptimization-library/build/CMakeFiles/testExample.dir
+/home/zzhfro/code/miniOptimization-library/build/CMakeFiles/testOpt.dir
