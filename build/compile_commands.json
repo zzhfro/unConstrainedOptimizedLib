@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/zzhfro/code/miniOptimization-library/build",
+  "command": "/usr/bin/c++   -I../include -I/usr/include/eigen3  -std=c++11 -Wall -O3 -DNDEBUG   -o CMakeFiles/testExample.dir/testExample.cpp.o -c /home/zzhfro/code/miniOptimization-library/testExample.cpp",
+  "file": "/home/zzhfro/code/miniOptimization-library/testExample.cpp"
+},
+
+{
+  "directory": "/home/zzhfro/code/miniOptimization-library/build",
+  "command": "/usr/bin/c++   -I../include -I/usr/include/eigen3  -std=c++11 -Wall -O3 -DNDEBUG   -o CMakeFiles/testOpt.dir/src/baseAlgorithm.cpp.o -c /home/zzhfro/code/miniOptimization-library/src/baseAlgorithm.cpp",
+  "file": "/home/zzhfro/code/miniOptimization-library/src/baseAlgorithm.cpp"
+},
+
+{
+  "directory": "/home/zzhfro/code/miniOptimization-library/build",
+  "command": "/usr/bin/c++   -I../include -I/usr/include/eigen3  -std=c++11 -Wall -O3 -DNDEBUG   -o CMakeFiles/testOpt.dir/src/unConOptimization.cpp.o -c /home/zzhfro/code/miniOptimization-library/src/unConOptimization.cpp",
+  "file": "/home/zzhfro/code/miniOptimization-library/src/unConOptimization.cpp"
+},
+
+{
+  "directory": "/home/zzhfro/code/miniOptimization-library/build",
+  "command": "/usr/bin/c++   -I../include -I/usr/include/eigen3  -std=c++11 -Wall -O3 -DNDEBUG   -o CMakeFiles/testOpt.dir/src/visual.cpp.o -c /home/zzhfro/code/miniOptimization-library/src/visual.cpp",
+  "file": "/home/zzhfro/code/miniOptimization-library/src/visual.cpp"
+},
+
+{
+  "directory": "/home/zzhfro/code/miniOptimization-library/build",
+  "command": "/usr/bin/c++   -I../include -I/usr/include/eigen3  -std=c++11 -Wall -O3 -DNDEBUG   -o CMakeFiles/testOpt.dir/testOpt.cpp.o -c /home/zzhfro/code/miniOptimization-library/testOpt.cpp",
+  "file": "/home/zzhfro/code/miniOptimization-library/testOpt.cpp"
+}
+]
