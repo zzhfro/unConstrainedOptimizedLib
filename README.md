@@ -1,3 +1,3 @@
 # unconstrained optimization method 
-# gaussian-newton
-# lbfgs
+# Gauss-Newton
+# L-BFGS 
